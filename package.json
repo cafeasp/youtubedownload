@@ -1,0 +1,18 @@
+{
+  "name": "youtube-downloader",
+  "version": "1.0.0",
+  "description": "download mp3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "youtube"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@distube/ytdl-core": "^4.16.4",
+    "fluent-ffmpeg": "^2.1.2"
+  }
+}
